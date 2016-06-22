@@ -39,7 +39,11 @@ Bart的滑板蛮好滑的，而且上面有插头可以让Bart固定在上面。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/5.jpg)
 
+受总体尺寸限制Homer这辆车是个“示意”缩小版，由原版4开门减少为2开门。不过个别细节还是可圈可点，如后视镜、雨刷器、前后车灯、牌照、橡胶轮胎都细致还原。
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/6.jpg)
+
+车门和后备箱都可以打开。车内只够站一个人，可见方向盘和挡把。后备箱空间不大，只能放一些小零件。
 
 **下面准备进屋子**
 
@@ -52,33 +56,59 @@ Bart的滑板蛮好滑的，而且上面有插头可以让Bart固定在上面。
 
 所有屋顶都是直接**放置**在墙壁上的。每块儿屋顶的形状都是精心设计的，可以准确无误地相互吻合，不会滑落。房子主体被设计成前后两部分，一侧由转轴固定，可以从另一侧**成扇形打开**（如上面右图，最大180度）。车库是一个独立部分，由四个插头和主体衔接。这样一来就可以随时方便地观赏房子的内部景色了，而无需拆开任何拼装的部分。
 
-
+**下面分别参观每个人的房间，先从Bart开始**
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/8.jpg)
 
+Bart房间的家具包括床、床头柜、书桌和座椅、书柜。墙上挂的是Krusty叔叔的海报，书桌上还有一本超级英雄辐射侠的漫画。
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/9.jpg)
+
+把家具取出来可以看到更多细节。比如Bart的书柜上面陈列了一些有趣的物件，顶层有收纳盒、棒球帽，中层有一个黑色的墨水瓶、两本书，最下层是一部粉色的手机ʕ •ᴥ•ʔ。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/10.jpg)
 
+Lisa的房间配置和Bart差不多，只不过女生元素多了许多。书桌换成了梳妆台（只可惜镜子是灰色砖块而不是镜面），凳子也是圆形的。床单是粉红的。壁挂海报上是Lisa最喜欢的爵士乐器萨克斯。
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/11.jpg)
+
+Lisa有两个床头柜，台灯也比Bart的好看。注意她房间也有个红色杯子，和Bart的一样。书柜上有收纳盒、放大镜一个、保温杯（或者是个装萤火虫的小馆子？）、以及很多本书～学霸就是学霸。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/12.jpg)
 
+这里有个良心物件——放大镜，玻璃镜片质量非常好。
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/13.jpg)
+
+爹妈的主卧面积比较大，因为除了双人床以外，还要放Maggie的婴儿床。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/14.jpg)
 
-![]({{ site.baseurl }}/images/the-simpsons-lego/15.jpg)
-
-![]({{ site.baseurl }}/images/the-simpsons-lego/16.jpg)
-
-![]({{ site.baseurl }}/images/the-simpsons-lego/17.jpg)
+主卧位于靠近转轴的地方，可以“一分为二”地观赏。双人床细节还原很赞，靠背、床柱、枕头、床单被罩一应俱全。Maggie的婴儿床头尾内侧也有白色软垫保护小baby不会撞到。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/18.jpg)
 
-![]({{ site.baseurl }}/images/the-simpsons-lego/19.jpg)
+二层的最后一个房间是卫生间，挤在一个非常狭小的方形空间里。内部装有洗脸池、笼头、马桶、厕纸、淋浴房、喷头和冷热水开关。
+
+![]({{ site.baseurl }}/images/the-simpsons-lego/15.jpg)
+
+楼梯间墙上挂着家里一老一小的大头照。
+
+![]({{ site.baseurl }}/images/the-simpsons-lego/16.jpg)
+
+从楼梯下来就到了全片最经典的场景——客厅。沙发、电视、帆船油画都是高还原。
+
+![]({{ site.baseurl }}/images/the-simpsons-lego/17.jpg)
+
+一家子都挤过来的效果。电视上正在播放全年龄动画片“猫和老鼠”（[痒痒和挠挠(慎入)][itchy-and-scratchy]）。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/20.jpg)
+
+客厅另一端放置一台钢琴（我记得应该是爷爷比较会弹），也是高还原，有黑白琴键和踏板，还配了琴凳！不过这个体积太小，没法放人上去弹啦。
+
+![]({{ site.baseurl }}/images/the-simpsons-lego/19.jpg)
+
+
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/21.jpg)
 
@@ -104,3 +134,4 @@ Bart的滑板蛮好滑的，而且上面有插头可以让Bart固定在上面。
 
 
 [simpsons-wiki-el-barto]: http://simpsons.wikia.com/wiki/El_Barto
+[itchy-and-scratchy]: http://tieba.baidu.com/p/356330651
