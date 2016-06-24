@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "乐高评测 - The Simpsons™ House"
+title:  "乐高LEGO－“辛普森一家”超详细评测"
 date:   2016-06-16 10:50:00 +0800
 ---
 LEGO 乐高 71006 The Simpsons™ House
@@ -108,25 +108,51 @@ Lisa有两个床头柜，台灯也比Bart的好看。注意她房间也有个红
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/19.jpg)
 
+接下来是老妈Marge的开放式厨房（和餐厅）。虽然空间不大，但是也是高度还原动画中的场景了。厨房在主卧正下方，也是需要从转轴的地方打开才能一分为二地看到内部结构。水池、灶、操作台、橱柜一应俱全。论细节，灶上有汤锅，墙上挂了料理机、平底锅，而抽屉和吊柜的门都可开关。地砖、桌椅配色什么的也都基本还原原作效果了。不信可以看这篇：[辛普森一家厨房神还原][simpsons-kitchen]。
 
+好了，主体部分已经参观完毕。下面这幅图可以让你了解各个房间的相对位置。（二层的一部分被设计为非固定咬合的，方便观赏。）
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/21.jpg)
 
+**最后介绍一下车库：**
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/22.jpg)
+
+结构相对简单，陈列了一些车库必备物品。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/23.jpg)
 
+车停进来后的效果。
+
+**房间全部拼合：**
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/24.jpg)
+
+＝＝＝＝＝＝＝＝分割线＝＝＝＝＝＝＝＝
+
+**OK，最后，还有一些我认为非常出彩的神细节：**
+
+下面这张是烟囱口。嗯，看到里面的金属隔离网罩了吧？要是没这货的话，什么鸟、鼠、各类杂物之类的肯定统统直接进到家里了。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/25.jpg)
 
+Flanders必须刷一下存在感：有几个物品上都有Flanders自己贴的标签，上面写着“Property of Ned Flanders”。手推车和烤架都是从他家顺的，哈哈～
+
+![]({{ site.baseurl }}/images/the-simpsons-lego/29.jpg)
+
+连空调机也没放过。。。
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/26.jpg)
+
+还有下面这个细节也很赞，Homer的公文包是可以打开的。当然里面空空的什么也没有。
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/27.jpg)
 
+盆栽里的植物真的是**“栽种”**在土里的。花盆里面从上到下分别是**红花**、**绿叶**、**泥土**、**泥土**。这个细节如果不是你自己拼装的话，是不会知道的。**别以为看不见的地方就没有内容**。类似的还有房子地板下面的地基部分也有类似的效果。LEGO就是在这种地方最能打动人，乐趣无穷。
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/28.jpg)
 
-![]({{ site.baseurl }}/images/the-simpsons-lego/29.jpg)
+还有，屋顶下面是有灯和布线的（当然也起到加固作用）：
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/30.jpg)
 
@@ -135,3 +161,4 @@ Lisa有两个床头柜，台灯也比Bart的好看。注意她房间也有个红
 
 [simpsons-wiki-el-barto]: http://simpsons.wikia.com/wiki/El_Barto
 [itchy-and-scratchy]: http://tieba.baidu.com/p/356330651
+[simpsons-kitchen]: http://www.chinachugui.com/news/2015/0821/15082183648.shtml
