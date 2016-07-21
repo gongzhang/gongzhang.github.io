@@ -59,7 +59,7 @@ categories: work
 
 ### 预览视频
 
-[来自优酷预览视频][youku-video]
+[来自优酷的预览视频][youku-video]
 
 <embed src="http://player.youku.com/player.php/sid/XMTY0MzkwMjE1Mg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" />
 
