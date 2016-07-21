@@ -5,6 +5,23 @@ date:   2016-06-16 10:50:00 +0800
 ---
 LEGO 乐高 71006 The Simpsons™ House
 
+“辛普森一家”这部美国家庭动画片已经传奇式地续播了二十八年，是美国电视史上播出时间最长的黄金时段电视剧。而辛普森在国内的粉丝数量也十分庞大，就在不久前全球首家“The Simpsons Store”在北京三里屯Village开业，帝都的辛粉们可以去买官方文化衫穿了。如果你没看过辛普森，简单说这部剧大体上描绘了美国中产家庭的家庭生活，充满美式幽默、丰富的音乐元素、中二脑洞、政治调侃，符合FOX的一贯作风。
+
+老婆知道我粉辛普森，特意海淘了LEGO这套土豪的高还原良心主题套装——71006 The Simpsons™ House作为生日礼物送给我。感动奔泪！（´∀｀）
+
+光看盒子上的人物就知道收藏价值颇高！
+
+![]({{ site.baseurl }}/images/the-simpsons-lego/box1.jpg)
+![]({{ site.baseurl }}/images/the-simpsons-lego/box2.jpg)
+
+...
+
+...
+
+...
+
+Piece太多，和老婆拼了好久哈哈。此处已略去拼装过程...直接看成品吧：
+
 **先来一张全家福**
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/1.jpg)
@@ -35,7 +52,7 @@ Bart的滑板蛮好滑的，而且上面有插头可以让Bart固定在上面。
 
 该看看Flanders了（厨师装扮，并且已确认左撇子无误）。Flanders还为辛普森一家带来了美味的烧烤、躺椅、美酒。（酒杯里我记得应该有樱桃才对，暂时没找到，可能是混在其他Set里。。。）
 
-**Homer的大粉汽车**
+**Homer的粉色汽车**
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/5.jpg)
 
@@ -152,11 +169,16 @@ Flanders必须刷一下存在感：有几个物品上都有Flanders自己贴的�
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/28.jpg)
 
-还有，屋顶下面是有灯和布线的（当然也起到加固作用）：
+还有，屋顶下面是有灯和布线的（也起到加固作用）：
 
 ![]({{ site.baseurl }}/images/the-simpsons-lego/30.jpg)
 
+`彩蛋: LEGO每块零件上的每一个小圆形凸起上都印有浅浅的“LEGO”的Logo，这意味着即使是正方形或圆形零件，也都是有方向的。请确保拼装时将所有Logo朝向同一方向。`
+
+最后，鸟瞰全屋，感觉很舒爽。
+
 ![]({{ site.baseurl }}/images/the-simpsons-lego/31.jpg)
+
 
 
 [simpsons-wiki-el-barto]: http://simpsons.wikia.com/wiki/El_Barto

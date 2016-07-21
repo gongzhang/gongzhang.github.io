@@ -2,6 +2,8 @@
 layout: post
 title:  "Learn to Post"
 date:   2016-06-16 10:08:00 +0800
+categories: joy
+tags: 
 ---
 The title of this page is "{{ page.title }}".
 
