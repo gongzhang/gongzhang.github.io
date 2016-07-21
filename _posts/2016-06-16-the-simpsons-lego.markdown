@@ -2,6 +2,7 @@
 layout: post
 title:  "乐高LEGO－“辛普森一家”超详细评测"
 date:   2016-06-16 10:50:00 +0800
+categories: joy
 ---
 LEGO 乐高 71006 The Simpsons™ House
 
