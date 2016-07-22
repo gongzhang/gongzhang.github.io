@@ -9,8 +9,8 @@
 title: "Gong's Blog"
 myname: Gong Zhang
 email: gong@me.com
-description:
-  
+description: 
+  © 2016
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gongzhang.github.io" # the base hostname & protocol for your site
 twitter_username: gong_cn
