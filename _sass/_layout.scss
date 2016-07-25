@@ -114,7 +114,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: 14px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
@@ -163,7 +163,7 @@
 }
 
 .rss-subscribe {
-    font-size: 15px;
+    font-size: 14px;
     color: $grey-color;
     margin-bottom: 0px;
     margin-top: $spacing-unit;
@@ -187,6 +187,7 @@
     list-style: none;
 
     > li {
+        margin-top: $spacing-unit / 1.5;
         margin-bottom: $spacing-unit / 1.5;
     }
 }
