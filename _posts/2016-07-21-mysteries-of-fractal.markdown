@@ -49,21 +49,13 @@ categories: work
 
 ### 下载地址
 
-[![]({{ site.baseurl }}/images/fractal/appstore.svg)][appstore-link] [🏃前往App Store下载][appstore-link]
+[![]({{ site.baseurl }}/images/fractal/appstore.svg)][appstore-link]
 
 ### 用户支持和反馈
 
 > 欢迎通过电子邮件反馈您的宝贵意见：
 >
 > [fractals.ios@gmail.com][support-email]
-
-### 预览视频
-
-[来自优酷的预览视频][youku-video]
-
-<embed src="http://player.youku.com/player.php/sid/XMTY0MzkwMjE1Mg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" />
-
-
 
 
 [appstore-link]: https://itunes.apple.com/app/id1086527481
